@@ -1,0 +1,10 @@
+C:\Users\bodyg\OneDrive\Desktop\C#_projects\TicTac_Game\bin\Debug\TicTac_Game.exe.config
+C:\Users\bodyg\OneDrive\Desktop\C#_projects\TicTac_Game\bin\Debug\TicTac_Game.exe
+C:\Users\bodyg\OneDrive\Desktop\C#_projects\TicTac_Game\bin\Debug\TicTac_Game.pdb
+C:\Users\bodyg\OneDrive\Desktop\C#_projects\TicTac_Game\obj\Debug\TicTac_Game.csproj.AssemblyReference.cache
+C:\Users\bodyg\OneDrive\Desktop\C#_projects\TicTac_Game\obj\Debug\TicTac_Game.Form1.resources
+C:\Users\bodyg\OneDrive\Desktop\C#_projects\TicTac_Game\obj\Debug\TicTac_Game.Properties.Resources.resources
+C:\Users\bodyg\OneDrive\Desktop\C#_projects\TicTac_Game\obj\Debug\TicTac_Game.csproj.GenerateResource.cache
+C:\Users\bodyg\OneDrive\Desktop\C#_projects\TicTac_Game\obj\Debug\TicTac_Game.csproj.CoreCompileInputs.cache
+C:\Users\bodyg\OneDrive\Desktop\C#_projects\TicTac_Game\obj\Debug\TicTac_Game.exe
+C:\Users\bodyg\OneDrive\Desktop\C#_projects\TicTac_Game\obj\Debug\TicTac_Game.pdb
